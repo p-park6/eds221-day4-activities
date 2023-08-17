@@ -1,0 +1,11 @@
+---
+title: "eds221-day4-tasks"
+format: html
+editor: visual
+---
+
+
+
+task 4 does not require making a for loop
+
+
